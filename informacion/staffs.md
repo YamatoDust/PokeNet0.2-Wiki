@@ -20,7 +20,7 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 <summary>ℹ️ Más información</summary>
 
-- **PokeSantiTW:** [Discord](https://discord.com/users/255649456119218188) · [Twitter/X](https://x.com/PokeSantiTW)
+- **PokeSantiTW:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/255649456119218188) • <i class="fa-twitter">:twitter:</i> [Twitter](https://x.com/PokeSantiTW)
 
 </details>
 
@@ -43,10 +43,10 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 <summary>ℹ️ Más información</summary>
 
-- **YamatoDust:** [Discord](https://discord.com/users/602295799279517696)
-- **xFuriadaNoitex:** [Discord](https://discord.com/users/754513258693656697)
-- **Mai_075:** [Discord](https://discord.com/users/323833550568685570)
-- **Gamertito:** [Discord](https://discord.com/users/1043510532977721394)
+- **YamatoDust:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/602295799279517696)
+- **xFuriadaNoitex:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/754513258693656697)
+- **Mai_075:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/323833550568685570)
+- **Gamertito:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1043510532977721394)
 
 </details>
 
@@ -68,9 +68,9 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 <summary>ℹ️ Más información</summary>
 
-- **ITSFrankoGG:** [Discord](https://discord.com/users/1000166441837932725)
-- **Teyu_31:** [Discord](https://discord.com/users/570326732704579587)
-- **RivalSilver97:** [Discord](https://discord.com/users/271007580547973121) · [Fangame: Pokémon Grand Order](https://pokemongrandorder.blogspot.com/)
+- **ITSFrankoGG:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1000166441837932725)
+- **Teyu_31:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/570326732704579587)
+- **RivalSilver97:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/271007580547973121) • <i class="fa-gamepad">:gamepad:</i> [Fangame: Pokémon Grand Order](https://pokemongrandorder.blogspot.com/)
 
 </details>
 
@@ -97,14 +97,14 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 <summary>ℹ️ Más información</summary>
 
-- **Trolendo:** [Discord](https://discord.com/users/392483301232869376)
-- **Ikaros_YT:** [Discord](https://discord.com/users/1175172885875269657)
-- **IMarioCrack:** [Discord](https://discord.com/users/388022318066302978)
-- **Morcant_:** [Discord](https://discord.com/users/1132724487230586992) · [Bio](https://e-z.bio/harr599)
-- **yThmks_:** [Discord](https://discord.com/users/1326392966281035776)
-- **Juniorcx:** [Discord](https://discord.com/users/1135341528865321062)
-- **MrBlat:** [Discord](https://discord.com/users/346261116667822080)
-- **TRANSLATOR:** [Discord](https://discord.com/users/981285988825464902)
+- **Trolendo:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/392483301232869376)
+- **Ikaros_YT:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1175172885875269657)
+- **IMarioCrack:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/388022318066302978)
+- **Morcant_:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1132724487230586992) • <i class="fa-link">:link:</i> [Bio](https://e-z.bio/harr599)
+- **yThmks_:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1326392966281035776)
+- **Juniorcx:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1135341528865321062)
+- **MrBlat:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/346261116667822080)
+- **TRANSLATOR:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/981285988825464902)
 
 </details>
 
@@ -127,10 +127,10 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 <summary>ℹ️ Más información</summary>
 
-- **Marukuz:** [Discord](https://discord.com/users/219036433380278272)
-- **Cheminsky:** [Discord](https://discord.com/users/409782467218636800)
-- **MiNombreEsVaro:** [Discord](https://discord.com/users/518773473229799425)
-- **raptor654:** [Discord](https://discord.com/users/688501679821553882) · [GitHub](https://github.com/diego-febles-seoane)
+- **Marukuz:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/219036433380278272)
+- **Cheminsky:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/409782467218636800)
+- **MiNombreEsVaro:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/518773473229799425)
+- **raptor654:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/688501679821553882) • <i class="fa-github">:github:</i> [GitHub](https://github.com/diego-febles-seoane)
 
 </details>
 
@@ -156,15 +156,15 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 <summary>ℹ️ Más información</summary>
 
-- **ITSFrankoGG:** [Discord](https://discord.com/users/1000166441837932725)
-- **xFuriadaNoitex:** [Discord](https://discord.com/users/754513258693656697)
-- **Trolendo:** [Discord](https://discord.com/users/392483301232869376)
-- **Gamertito:** [Discord](https://discord.com/users/1043510532977721394)
-- **Mai_075:** [Discord](https://discord.com/users/323833550568685570)
-- **Arii:** [Discord](https://discord.com/users/920039408818876446)
-- **yThmks_:** [Discord](https://discord.com/users/1326392966281035776)
-- **JaviPuerto31:** [Discord](https://discord.com/users/447798264557994004)
-- **HiroIkimisha:** [Discord](https://discord.com/users/684171967036915751)
+- **ITSFrankoGG:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1000166441837932725)
+- **xFuriadaNoitex:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/754513258693656697)
+- **Trolendo:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/392483301232869376)
+- **Gamertito:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1043510532977721394)
+- **Mai_075:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/323833550568685570)
+- **Arii:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/920039408818876446)
+- **yThmks_:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/1326392966281035776)
+- **JaviPuerto31:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/447798264557994004)
+- **HiroIkimisha:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/684171967036915751)
 
 </details>
 
@@ -189,13 +189,13 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 <summary>ℹ️ Más información</summary>
 
-- **Mai_075:** [Discord](https://discord.com/users/323833550568685570)
-- **xFuriadaNoitex:** [Discord](https://discord.com/users/754513258693656697)
-- **YamatoDust:** [Discord](https://discord.com/users/602295799279517696)
-- **EnzuoGa:** [Discord](https://discord.com/users/481080133349015554)
-- **rowlex:** [Discord](https://discord.com/users/882708690732449883) · [Linktree](https://linktr.ee/rowlexad)
-- **raptor654:** [Discord](https://discord.com/users/688501679821553882) · [GitHub](https://github.com/diego-febles-seoane)
-- **Ivan_GC:** [Discord](https://discord.com/users/824296421820989500) · [Twitter/X](https://x.com/Ivarc987123)
-- **JPrimee:** [Discord](https://discord.com/users/351742989518766090) · [Twitter/X](https://x.com/jvprz__)
+- **Mai_075:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/323833550568685570)
+- **xFuriadaNoitex:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/754513258693656697)
+- **YamatoDust:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/602295799279517696)
+- **EnzuoGa:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/481080133349015554)
+- **rowlex:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/882708690732449883) • <i class="fa-link">:link:</i> [Linktree](https://linktr.ee/rowlexad)
+- **raptor654:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/688501679821553882) • <i class="fa-github">:github:</i> [GitHub](https://github.com/diego-febles-seoane)
+- **Ivan_GC:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/824296421820989500) • <i class="fa-twitter">:twitter:</i> [Twitter](https://x.com/Ivarc987123)
+- **JPrimee:** <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/351742989518766090) • <i class="fa-twitter">:twitter:</i> [Twitter](https://x.com/jvprz__)
 
 </details>
