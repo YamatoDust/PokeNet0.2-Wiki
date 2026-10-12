@@ -1,106 +1,201 @@
-# 🛠️ Staffs
+# 🛠️ Equipo de Staff — Universo PokéNet
 
-## 🛠️ Equipo de Staff — Universo PokéNet
+En **[Universo PokéNet](../README.md)** contamos con un equipo especializado para garantizar la mejor experiencia dentro del servidor. A continuación, puedes consultar los integrantes de nuestro equipo, sus roles y rangos. Debajo de cada tabla, despliega **Más información** y haz clic en el nombre de un miembro para ver sus enlaces.
 
-En [**Universo PokéNet**](../) contamos con un equipo especializado para garantizar la mejor experiencia dentro del servidor. A continuación, puedes consultar los integrantes de nuestro equipo, sus roles y rangos. Haz clic en el nombre de cada miembro para desplegar sus redes sociales e información.
+**Ir a:** [Dueño](#dueño) · [Administrador](#administrador) · [Moderador](#moderador) · [Helper](#helper) · [Developer](#developer) · [Builder](#builder) · [Equipo Creativo](#equipo-creativo)
 
-***
+---
 
-## ![Dueño](<../.gitbook/assets/diosarc (1).png>) Dueño
+![Dueño](../images/Rangos/Dios/diosarc.png)
+
+## Dueño
 
 > **La máxima autoridad de PokéNet: gestión general, visión estratégica y decisiones finales.**
 
-|                                                      Nick                                                     |  Puesto |                                                                                  Redes                                                                                 |
-| :-----------------------------------------------------------------------------------------------------------: | :-----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="../.gitbook/assets/PokeSantiTW (1).png" alt="Skin de PokeSantiTW" data-size="original"> PokeSantiTW | `Dueño` | <i class="fa-twitter">:twitter:</i> [Twitter](https://x.com/PokeSantiTW) • <i class="fa-discord">:discord:</i> [Discord](https://discord.com/users/255649456119218188) |
+| Avatar | Nick | Cargo |
+| :---: | :--- | :---: |
+| ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png) | **PokeSantiTW** | `Dueño` |
 
-***
+<details>
 
-## ![Admin](<../.gitbook/assets/adminArc (1).png>) Administrador
+<summary>ℹ️ Más información</summary>
+
+- **PokeSantiTW:** [Discord](https://discord.com/users/255649456119218188) · [Twitter/X](https://x.com/PokeSantiTW)
+
+</details>
+
+---
+
+![Admin](../images/Rangos/Admin/adminArc.png)
+
+## Administrador
 
 > **Máxima autoridad operativa sobre el servidor, responsables de la toma de decisiones clave.**
 
-|                                 Avatar                                 | Nick         |         Cargo        |
-| :--------------------------------------------------------------------: | ------------ | :------------------: |
-|     ![Skin de YamatoDust](<../.gitbook/assets/YamatoDust (1).png>)     | yTmeaoxs9fQO |     `Admin Líder`    |
-| ![Skin de xFuriadaNoitex](<../.gitbook/assets/xFuriadaNoitex (1).png>) | ReM6Ee5hJdJG |     `Admin Líder`    |
-|             ![Skin de Mai\_075](../.gitbook/assets/mai.png)            | h3G7U5le1a1u | `Directora Creativa` |
-|       ![Skin de Gamertito](<../.gitbook/assets/Gametito (1).png>)      | 2oYEt7hz6vad |    `Administrador`   |
+| Avatar | Nick | Cargo |
+| :---: | :--- | :---: |
+| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png) | **YamatoDust** | `Admin Líder` |
+| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | **xFuriadaNoitex** | `Admin Líder` |
+| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | **Mai_075** | `Directora Creativa` |
+| ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png) | **Gamertito** | `Administrador` |
 
-***
+<details>
 
-## ![Moderador](<../.gitbook/assets/modarc (1).png>) Moderador
+<summary>ℹ️ Más información</summary>
+
+- **YamatoDust:** [Discord](https://discord.com/users/602295799279517696)
+- **xFuriadaNoitex:** [Discord](https://discord.com/users/754513258693656697)
+- **Mai_075:** [Discord](https://discord.com/users/323833550568685570)
+- **Gamertito:** [Discord](https://discord.com/users/1043510532977721394)
+
+</details>
+
+---
+
+![Moderador](../images/Rangos/Mod/modarc.png)
+
+## Moderador
 
 > **Encargados de mantener el orden, aplicar sanciones y asegurar la armonía en la comunidad.**
 
-|                                Avatar                                | Nick         |    Cargo    |
-| :------------------------------------------------------------------: | ------------ | :---------: |
-|   ![Skin de ITSFrankoGG](<../.gitbook/assets/ITSFrankoGG (1).png>)   | xfIZSowGQkXI | `Moderador` |
-|       ![Skin de Teyu\_31](<../.gitbook/assets/Teyu_31 (1).png>)      | xxkxsRlIrb6s | `Moderador` |
-| ![Skin de RivalSilver97](<../.gitbook/assets/RivalSilver97 (1).png>) | j90Q1NTEHjol | `Moderador` |
+| Avatar | Nick | Cargo |
+| :---: | :--- | :---: |
+| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | **ITSFrankoGG** | `Moderador` |
+| ![Skin de Teyu_31](../images/Rangos/Helper/Teyu_31.png) | **Teyu_31** | `Moderador` |
+| ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png) | **RivalSilver97** | `Moderador` |
 
-***
+<details>
 
-## ![Helper](<../.gitbook/assets/helperarc (1).png>) Helper
+<summary>ℹ️ Más información</summary>
+
+- **ITSFrankoGG:** [Discord](https://discord.com/users/1000166441837932725)
+- **Teyu_31:** [Discord](https://discord.com/users/570326732704579587)
+- **RivalSilver97:** [Discord](https://discord.com/users/271007580547973121) · [Fangame: Pokémon Grand Order](https://pokemongrandorder.blogspot.com/)
+
+</details>
+
+---
+
+![Helper](../images/Rangos/Helper/helperarc.png)
+
+## Helper
 
 > **Soporte directo a la comunidad: resolución de dudas y acompañamiento a los nuevos jugadores.**
 
-|                           Avatar                           | Nick         |   Cargo  |
-| :--------------------------------------------------------: | ------------ | :------: |
-|                                                            | vuthHg98Na3u | `Helper` |
-|    ![Skin de Ikaros\_YT](../.gitbook/assets/ikaros.png)    | MXjIvREz2w8w | `Helper` |
-|    ![Skin de IMarioCrack](../.gitbook/assets/mario.png)    | TtrWnKXk81Vh | `Helper` |
-|    ![Skin de Morcant\_](../.gitbook/assets/morcant.png)    | gkASDwvDUZRR | `Helper` |
-|      ![Skin de yThmks\_](../.gitbook/assets/ythm.png)      | 7L3v5AycW2iL | `Helper` |
-| ![Skin de Juniorcx](<../.gitbook/assets/JuniorCX (1).png>) | yaS58P527eK3 | `Helper` |
-|                                                            | cjIgKKjYH1B0 | `Helper` |
-|  ![Skin de TRANSLATOR](../.gitbook/assets/translator.png)  | xKAKNdH9DJ8b | `Helper` |
+| Avatar | Nick | Cargo |
+| :---: | :--- | :---: |
+| ![Skin de Trolendo](../images/Rangos/Dev/Steve.png) | **Trolendo** | `Helper` |
+| ![Skin de Ikaros_YT](../images/Rangos/Staff/ikaros.png) | **Ikaros_YT** | `Helper` |
+| ![Skin de IMarioCrack](../images/Rangos/Staff/mario.png) | **IMarioCrack** | `Helper` |
+| ![Skin de Morcant_](../images/Rangos/Staff/morcant.png) | **Morcant_** | `Helper` |
+| ![Skin de yThmks_](../images/Rangos/Staff/ythm.png) | **yThmks_** | `Helper` |
+| ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png) | **Juniorcx** | `Helper` |
+| ![Skin de MrBlat](../images/Rangos/Dev/Steve.png) | **MrBlat** | `Helper` |
+| ![Skin de TRANSLATOR](../images/Rangos/Staff/translator.png) | **TRANSLATOR** | `Helper` |
 
-***
+<details>
 
-## ![Dev](<../.gitbook/assets/devarc (1).png>) Developer
+<summary>ℹ️ Más información</summary>
+
+- **Trolendo:** [Discord](https://discord.com/users/392483301232869376)
+- **Ikaros_YT:** [Discord](https://discord.com/users/1175172885875269657)
+- **IMarioCrack:** [Discord](https://discord.com/users/388022318066302978)
+- **Morcant_:** [Discord](https://discord.com/users/1132724487230586992) · [Bio](https://e-z.bio/harr599)
+- **yThmks_:** [Discord](https://discord.com/users/1326392966281035776)
+- **Juniorcx:** [Discord](https://discord.com/users/1135341528865321062)
+- **MrBlat:** [Discord](https://discord.com/users/346261116667822080)
+- **TRANSLATOR:** [Discord](https://discord.com/users/981285988825464902)
+
+</details>
+
+---
+
+![Dev](../images/Rangos/Dev/devarc.png)
+
+## Developer
 
 > **Ingenieros del servidor: programación de plugins, bots e integración de nuevas mecánicas.**
 
-|                          Avatar                          | Nick         |       Cargo       |
-| :------------------------------------------------------: | ------------ | :---------------: |
-| ![Skin de Marukuz](<../.gitbook/assets/Marukuz (1).png>) | eLsSgHyujqXf | `Developer Líder` |
-| ![Skin de Cheminsky](<../.gitbook/assets/Steve (1).png>) | U5PDhl9SEx42 |    `Developer`    |
-|  ![Skin de MiNombreEsVaro](../.gitbook/assets/varo.png)  | HIYFH05IIaMY |    `Developer`    |
-|    ![Skin de raptor654](../.gitbook/assets/raptor.png)   | C7TCunEUPKQR |    `Developer`    |
+| Avatar | Nick | Cargo |
+| :---: | :--- | :---: |
+| ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png) | **Marukuz** | `Developer Líder` |
+| ![Skin de Cheminsky](../images/Rangos/Dev/Steve.png) | **Cheminsky** | `Developer` |
+| ![Skin de MiNombreEsVaro](../images/Rangos/Staff/varo.png) | **MiNombreEsVaro** | `Developer` |
+| ![Skin de raptor654](../images/Rangos/Staff/raptor.png) | **raptor654** | `Developer` |
 
-***
+<details>
 
-## 🧱 Builder
+<summary>ℹ️ Más información</summary>
+
+- **Marukuz:** [Discord](https://discord.com/users/219036433380278272)
+- **Cheminsky:** [Discord](https://discord.com/users/409782467218636800)
+- **MiNombreEsVaro:** [Discord](https://discord.com/users/518773473229799425)
+- **raptor654:** [Discord](https://discord.com/users/688501679821553882) · [GitHub](https://github.com/diego-febles-seoane)
+
+</details>
+
+---
+
+## Builder
 
 > **Arquitectos de PokéNet: construcción de mapas, spawns, zonas de misiones y eventos.**
 
-|                                 Avatar                                 | Nick         |      Cargo      |
-| :--------------------------------------------------------------------: | ------------ | :-------------: |
-|    ![Skin de ITSFrankoGG](<../.gitbook/assets/ITSFrankoGG (1).png>)    | R5zdae0lKO0Q | `Builder Líder` |
-| ![Skin de xFuriadaNoitex](<../.gitbook/assets/xFuriadaNoitex (1).png>) | X3lKeDRcfeqz |    `Builder`    |
-|         ![Skin de Trolendo](<../.gitbook/assets/Steve (1).png>)        | qoKLdXdpTvLM |    `Builder`    |
-|       ![Skin de Gamertito](<../.gitbook/assets/Gametito (1).png>)      | IHa1TSrtRFlv |    `Builder`    |
-|             ![Skin de Mai\_075](../.gitbook/assets/mai.png)            | IeMlnqkM429G |    `Builder`    |
-|              ![Skin de Arii](../.gitbook/assets/arii.png)              | h9LaEkP9T2DF |    `Builder`    |
-|            ![Skin de yThmks\_](../.gitbook/assets/ythm.png)            | 7LbkIVQuRrm5 |    `Builder`    |
-|       ![Skin de JaviPuerto31](../.gitbook/assets/javipuerto.png)       | GL5HJzuaM8co |    `Builder`    |
-|          ![Skin de HiroIkimisha](../.gitbook/assets/HIRO.png)          | NEgzi0d9QHKY |    `Builder`    |
-|        ![Skin de FeniX1920](<../.gitbook/assets/Steve (1).png>)        | DXqzMrMyBsBQ |    `Builder`    |
+| Avatar | Nick | Cargo |
+| :---: | :--- | :---: |
+| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | **ITSFrankoGG** | `Builder Líder` |
+| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | **xFuriadaNoitex** | `Builder` |
+| ![Skin de Trolendo](../images/Rangos/Dev/Steve.png) | **Trolendo** | `Builder` |
+| ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png) | **Gamertito** | `Builder` |
+| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | **Mai_075** | `Builder` |
+| ![Skin de Arii](../images/Rangos/Staff/arii.png) | **Arii** | `Builder` |
+| ![Skin de yThmks_](../images/Rangos/Staff/ythm.png) | **yThmks_** | `Builder` |
+| ![Skin de JaviPuerto31](../images/Rangos/Staff/javipuerto.png) | **JaviPuerto31** | `Builder` |
+| ![Skin de HiroIkimisha](../images/Rangos/Staff/HIRO.png) | **HiroIkimisha** | `Builder` |
 
-***
+<details>
 
-## 🖌️ Equipo Creativo
+<summary>ℹ️ Más información</summary>
+
+- **ITSFrankoGG:** [Discord](https://discord.com/users/1000166441837932725)
+- **xFuriadaNoitex:** [Discord](https://discord.com/users/754513258693656697)
+- **Trolendo:** [Discord](https://discord.com/users/392483301232869376)
+- **Gamertito:** [Discord](https://discord.com/users/1043510532977721394)
+- **Mai_075:** [Discord](https://discord.com/users/323833550568685570)
+- **Arii:** [Discord](https://discord.com/users/920039408818876446)
+- **yThmks_:** [Discord](https://discord.com/users/1326392966281035776)
+- **JaviPuerto31:** [Discord](https://discord.com/users/447798264557994004)
+- **HiroIkimisha:** [Discord](https://discord.com/users/684171967036915751)
+
+</details>
+
+---
+
+## Equipo Creativo
 
 > **Artistas visuales: creación de texturas, modelos 3D, skins, armaduras y arte promocional.**
 
-|                                 Avatar                                 | Nick         |      Cargo      |
-| :--------------------------------------------------------------------: | ------------ | :-------------: |
-|             ![Skin de Mai\_075](../.gitbook/assets/mai.png)            | vVRy2PRsRYDo | `Diseñadora 3D` |
-| ![Skin de xFuriadaNoitex](<../.gitbook/assets/xFuriadaNoitex (1).png>) | vNhKwiavzny3 |  `Diseñador 3D` |
-|     ![Skin de YamatoDust](<../.gitbook/assets/YamatoDust (1).png>)     | Otg5kp2hGq1y |  `Diseñador 3D` |
-|             ![Skin de EnzuoGa](../.gitbook/assets/enzo.png)            | zrmvReuW6Uvv |  `Diseñador 3D` |
-|           ![Skin de rowlex](../.gitbook/assets/rowlexad.png)           | w5LdUGTZkeGx |  `Diseñador 2D` |
-|           ![Skin de raptor654](../.gitbook/assets/raptor.png)          | uPetnVsmyQup |  `Diseñador 3D` |
-|            ![Skin de Ivan\_GC](../.gitbook/assets/Ivan.png)            | 31VnpnJI1JFK |  `Diseñador 3D` |
-|            ![Skin de JPrimee](../.gitbook/assets/jprime.png)           | 4bpI3BgmNoZ2 |  `Diseñador 2D` |
+| Avatar | Nick | Cargo |
+| :---: | :--- | :---: |
+| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | **Mai_075** | `Diseñadora 3D` |
+| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | **xFuriadaNoitex** | `Diseñador 3D` |
+| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png) | **YamatoDust** | `Diseñador 3D` |
+| ![Skin de EnzuoGa](../images/Rangos/Staff/enzo.png) | **EnzuoGa** | `Diseñador 3D` |
+| ![Skin de rowlex](../images/Rangos/Staff/rowlexad.png) | **rowlex** | `Diseñador 2D` |
+| ![Skin de raptor654](../images/Rangos/Staff/raptor.png) | **raptor654** | `Diseñador 3D` |
+| ![Skin de Ivan_GC](../images/Rangos/Staff/Ivan.png) | **Ivan_GC** | `Diseñador 3D` |
+| ![Skin de JPrimee](../images/Rangos/Staff/jprime.png) | **JPrimee** | `Diseñador 2D` |
+
+<details>
+
+<summary>ℹ️ Más información</summary>
+
+- **Mai_075:** [Discord](https://discord.com/users/323833550568685570)
+- **xFuriadaNoitex:** [Discord](https://discord.com/users/754513258693656697)
+- **YamatoDust:** [Discord](https://discord.com/users/602295799279517696)
+- **EnzuoGa:** [Discord](https://discord.com/users/481080133349015554)
+- **rowlex:** [Discord](https://discord.com/users/882708690732449883) · [Linktree](https://linktr.ee/rowlexad)
+- **raptor654:** [Discord](https://discord.com/users/688501679821553882) · [GitHub](https://github.com/diego-febles-seoane)
+- **Ivan_GC:** [Discord](https://discord.com/users/824296421820989500) · [Twitter/X](https://x.com/Ivarc987123)
+- **JPrimee:** [Discord](https://discord.com/users/351742989518766090) · [Twitter/X](https://x.com/jvprz__)
+
+</details>
